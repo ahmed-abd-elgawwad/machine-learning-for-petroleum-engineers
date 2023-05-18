@@ -21,7 +21,7 @@ In this tutorial the lession that i am teachning are from various sources and co
 |12|What is support Vector machines |Uploading |none
 |13|Decision Tree and Random Forrest, how thy work for regression and classification|Uploading |none
 |14|Lithology Classification with Random Forrest |Uploading |[Notebook](https://github.com/ellord-start/machine-learning-for-petroleum-engineers/blob/main/notebooks/lithology%20classification.ipynb)
-|15|Xtra Tree, Gradient boost , Extreme gradient boosting |Uploading |none
+|15|Xtra Trees, Gradient boost , Extreme gradient boosting |Uploading |none
 
 
 
