@@ -18,5 +18,10 @@ In this tutorial the lession that i am teachning are from various sources and co
 |9|Reguralization, l1 and l2 penalty|[Video on youtube](https://youtu.be/UQ0a3B6PN6U)|none|
 |10|K-nearest neighbors, knn with sklearn|[Video on youtube](https://youtu.be/hNCKrSPhxMA)|[Notebook](https://github.com/ellord-start/machine-learning-for-petroleum-engineers/blob/main/notebooks/knn.ipynb)|
 |11|Hyperparameter Tunning and corss-validation|[Video on youtube](https://youtu.be/qm0I6_HkPWA)|none
+|12|What is support Vector machines |Uploading |none
+|13|Decision Tree and Random Forrest, how thy work for regression and classification|Uploading |none
+|14|Lithology Classification with Random Forrest |Uploading |none
+|15|Xtra Tree, Gradient boost , Extreme gradient boosting |Uploading |none
+
 
 
